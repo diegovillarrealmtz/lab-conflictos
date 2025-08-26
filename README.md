@@ -1,1 +1,1 @@
-# lab-conflictos
+marca-conflicto: FEATURE-A
