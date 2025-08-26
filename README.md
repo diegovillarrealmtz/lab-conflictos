@@ -1,1 +1,2 @@
-marca-conflicto: FEATURE-A
+Esta línea fue agregada en feature-a
+
